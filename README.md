@@ -14,7 +14,7 @@ Finally:
 ## Task list
 
 ### Task1
-The input is a long set of integers. Please write a small app that will output the list of distinct elements sorted in ascending order, plus the basic measurement information that contains the number of elements in the source, number of distinct elements, min and max value.
+The input is a long list of integers. Please write a small app that will output the list of distinct elements sorted in ascending order, plus the basic measurement information that contains the number of elements in the source, number of distinct elements, min and max value.
 
 Sample:
 
@@ -36,7 +36,7 @@ max: 20
 
 
 ### Task2
-Again, the input is a long set of integers. Provide a working code that will find all the pairs (in this set) that sum up to 13. Each pair in the output should have first number not greater than the second one and lines should be sorted in an ascending order.
+Again, the input is a long list of integers. Provide a working code that will find all the pairs (in this integer list) that sum up to 13. Each pair in the output should have first number not greater than the second one and lines should be sorted in an ascending order.
 
 Sample:
 
